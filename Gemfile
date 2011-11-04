@@ -3,7 +3,8 @@ source 'http://rubygems.dev'
 
 gem 'rails', '3.1.1'
 
-gem 'backbone-rails'
+#gem 'backbone-rails'
+gem 'rails-backbone'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
