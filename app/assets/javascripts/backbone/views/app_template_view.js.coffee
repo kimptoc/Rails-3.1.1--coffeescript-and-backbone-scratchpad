@@ -1,4 +1,4 @@
-class window.AppTemplateView extends Backbone.View
+class App.AppTemplateView extends Backbone.View
   el: '#app-template-view'
 
   initialize: ->

@@ -3,6 +3,7 @@
 # You can use CoffeeScript in this file: http://jashkenas.github.com/coffee-script/
 #alert('??')
 #console.log "hello"
-jQuery ->
-  app = new App()
-  app.start()
+#jQuery ->
+#  app = new App()
+#  app.start()
+

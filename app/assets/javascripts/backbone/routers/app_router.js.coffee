@@ -1,6 +1,6 @@
-class window.AppRouter extends Backbone.Router
+class App.AppRouter extends Backbone.Router
   initialize: ->
     console.log "init router"
-    new AppView
-    new AppTemplateView
+    new App.AppView
+    new App.AppTemplateView
 

@@ -1,2 +1,10 @@
 <div id="app"></div>
 <div id="app-template-view"></div>
+
+<script type="text/javascript">
+  $(function() {
+    window.app_router = new App.AppRouter();
+    //this line works on services/index page, but fails here :(
+//    Backbone.history.start();
+  });
+</script>

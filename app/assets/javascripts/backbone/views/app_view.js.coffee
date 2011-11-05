@@ -1,4 +1,4 @@
-class window.AppView extends Backbone.View
+class App.AppView extends Backbone.View
   el: '#app'
 
   initialize: ->
