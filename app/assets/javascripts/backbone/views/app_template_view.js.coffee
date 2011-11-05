@@ -7,7 +7,7 @@ class App.AppTemplateView extends Backbone.View
 
   render: ->
     console.log "render app template view"
-#    $(@el).html("wowser")
+    $(@el).html("wowser too")
     console.log("post view")
     return @
 
